@@ -1,0 +1,36 @@
+.playerList{
+    width: 30%;
+    margin: 26px 14px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 5px 2px #2b7559b5;
+}
+.playerList img{
+    height: 250px;
+    width: 100%;
+    background: linear-gradient( red , green);
+    border-radius: 6px 7px 0px 180px;
+}
+.playerList p{
+    font-weight: bold;
+    padding: 0px 12px;
+    margin: 2px 0px;
+    color: #006f44;
+}
+.playerList button{
+    border: 1px solid green;
+    padding: 6px 21px;
+    width: 83%;
+    margin: 0 auto;
+    margin-bottom: 26px;
+    display: block;
+    margin-top: 11px;
+    font-weight: 500;
+    background: linear-gradient(to right, red , green);
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+.playerList button:hover{
+    background: #fff;
+    color: green;
+}

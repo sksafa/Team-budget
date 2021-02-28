@@ -1,0 +1,12 @@
+.navbar{
+    background: linear-gradient(to right, green , red);
+    color: #fff;
+    height: 50px;
+    text-align: center;
+    
+}
+.cghg{
+    text-align: center;
+    margin-left:50px ;
+
+}

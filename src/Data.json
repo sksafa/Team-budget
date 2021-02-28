@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Masrafi Bin Murtaza",
+      "role":"Bowler",
+      "age":"35",
+      "salary":"120000",
+      "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx"
+    },
+    {
+      "id": 2,
+      "name": "Shakib Al Hassan",
+      "role":"All Rounder",
+      "age":"29",
+      "salary":"141000",
+      "image":"https://resources.pulse.icc-cricket.com/players/284/201.png"
+
+    },
+    {
+      "id": 3,
+      "name": "Tamim Iqbal",
+      "role":"Batsman",
+      "age":"31",
+      "salary":"100000",
+      "image":"https://resources.pulse.icc-cricket.com/players/284/287.png"
+
+    },
+    {
+      "id": 4,
+      "name": "Musfiq Rahim",
+      "role":"Batsman(Wk)",
+      "age":"27",
+      "salary":"80000",
+      "image":"https://resources.pulse.icc-cricket.com/players/284/491.png"
+    },
+    {
+      "id": 5,
+      "name": "Mahamudullah",
+      "role":"All Rounder",
+      "age":"30",
+      "salary":"70000",
+      "image":"https://static.toiimg.com/thumb/msid-76356800,width-500,resizemode-4,imgsize-/76356800.jpg"  
+    },
+    {
+      "id": 6,
+      "name": "Taskin Ahmed",
+      "role":"Bowler",
+      "age":"26",
+      "salary":"60000",
+      "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Taskin-Ahmed-Ct17.ashx"
+    },
+    {
+      "id": 7,
+      "name": "Mustafiz",
+      "role":"Bowler",
+      "age":"25",
+      "salary":"90000",
+      "image":"https://resources.pulse.icc-cricket.com/players/284/1594.png"
+    },
+    {
+      "id": 8,
+      "name": "Mehedi Miraz",
+      "role":"All Rounder",
+      "age":"22",
+      "salary":"40000",
+      "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mehedi-Hasan-CWC19.ashx"  
+    },
+    {
+      "id": 9,
+      "name": "Rubel Hassan",
+      "role":"Bowler",
+      "age":"27",
+      "salary":"50000",
+      "image":"https://resources.pulse.icc-cricket.com/players/284/1135.png"
+    },
+    {
+      "id": 10,
+      "name": "Sabbir Rahman",
+      "role":"All Rounder",
+      "age":"26",
+      "salary":"60000",
+      "image":"https://resources.pulse.icc-cricket.com/players/284/1734.png"
+    },
+
+    {
+        "id": 11,
+        "name": "Liton Das",
+        "role":"Batsman",
+        "age":"24",
+        "salary":"65000",
+        "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx"
+      },
+
+      {
+        "id": 12,
+        "name": "Shommow Sharkar",
+        "role":"All Rounder",
+        "age":"23",
+        "salary":"70000",
+        "image":"https://resources.pulse.icc-cricket.com/players/284/1919.png"
+      },
+      {
+        "id": 13,
+        "name": "Saifuddin",
+        "role":"All Rounder",
+        "age":"21",
+        "salary":"30000",
+        "image":"https://resources.pulse.icc-cricket.com/players/284/2915.png"
+      }
+
+  ]
