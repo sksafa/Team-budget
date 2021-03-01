@@ -1,16 +1,14 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './component/Navbar/Navbar';
-import Player from './component/Player/Player';
-
-
+import MainNavbar from './component/Navbar/MainNavbar';
+import BdCricketTeam from './component/BdCricketTeam/BdCricketTeam';
 
 
 function App() {
   return (
     <div>
-      <Navbar></Navbar>
-      <Player></Player>
+      <MainNavbar></MainNavbar>
+      <BdCricketTeam></BdCricketTeam>
     </div>
   );
 }

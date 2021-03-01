@@ -1,13 +1,15 @@
 .mainInfo{
     display: flex;
+    padding-top: 50px;
 }
 .playerInfo{
     width: 70%;
     display: flex;
     flex-wrap: wrap;
-    border-right: 1px solid blue;
+    border-right: 1px solid #079c2e;
 }
 .playerSelectInfo{
     width: 30%;
-    background-color: #ddd;
+    /* background: linear-gradient(to right, red , green); */
+   
 }

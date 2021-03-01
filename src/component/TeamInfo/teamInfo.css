@@ -1,0 +1,33 @@
+.selectInfo{
+    background: linear-gradient(to right, red , green);
+    margin-top: 26px;
+    margin-left: 10px;
+    margin-right: 11px;
+    border-radius: 9px;
+    color: #fff;
+    padding: 15px;
+    box-shadow: 1px 2px 4px 2px #502828a1;
+    height: 530px;
+    overflow: scroll;
+    position: fixed;
+    width: 27%;
+    
+}
+table tr{
+    border-bottom: 1px solid #fff;
+}
+table tr td{
+    padding-right: 33px;
+}
+table tr:last-child{
+    border-bottom: 0px solid #fff;
+}
+.textBlack{
+    color: #000;
+    font-weight: bold;
+    font-size: 19px;
+}
+.borderBottom{
+    text-align: center;
+    border-bottom: 1px solid #fff;
+}

@@ -2,10 +2,10 @@
     {
       "id": 1,
       "name": "Masrafi Bin Murtaza",
-      "role":"Bowler",
+      "role":"Bowler (c)",
       "age":"35",
       "salary":"120000",
-      "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx"
+      "image":"https://resources.pulse.icc-cricket.com/players/284/391.png"
     },
     {
       "id": 2,
@@ -39,15 +39,15 @@
       "role":"All Rounder",
       "age":"30",
       "salary":"70000",
-      "image":"https://static.toiimg.com/thumb/msid-76356800,width-500,resizemode-4,imgsize-/76356800.jpg"  
+      "image":"https://resources.pulse.icc-cricket.com/players/284/492.png"  
     },
     {
       "id": 6,
-      "name": "Taskin Ahmed",
-      "role":"Bowler",
+      "name": "Mohammad Mithun",
+      "role":"Batsman",
       "age":"26",
       "salary":"60000",
-      "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Taskin-Ahmed-Ct17.ashx"
+      "image":"https://resources.pulse.icc-cricket.com/players/284/1733.png"
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "role":"All Rounder",
       "age":"22",
       "salary":"40000",
-      "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mehedi-Hasan-CWC19.ashx"  
+      "image":"https://resources.pulse.icc-cricket.com/players/284/1597.png"  
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
         "role":"Batsman",
         "age":"24",
         "salary":"65000",
-        "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx"
+        "image":"https://resources.pulse.icc-cricket.com/players/284/1596.png"
       },
 
       {
